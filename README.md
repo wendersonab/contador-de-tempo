@@ -36,7 +36,7 @@ O projeto foi convertido em um **executável (.exe)** usando **PyInstaller**, to
 ---
 
 ## 👨‍💻 Desenvolvido por
-**[Wenderson](https://github.com/SEU_USUARIO)**  
+**[Wenderson](https://github.com/wendersonab)**  
 Apaixonado por tecnologia, design e desenvolvimento de sistemas.
 
 ---
