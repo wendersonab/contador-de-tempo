@@ -9,7 +9,7 @@ O projeto foi convertido em um **executável (.exe)** usando **PyInstaller**, to
 
 <div align="center">
 
-[![Download Código Fonte](https://img.shields.io/badge/📂_Baixar%20Código%20Fonte-0A66C2?style=for-the-badge)](https://github.com/SEU_USUARIO/contador-de-tempo/archive/refs/heads/main.zip)
+[![Download Código Fonte](https://img.shields.io/badge/📂_Baixar%20Código%20Fonte-0A66C2?style=for-the-badge)](https://github.com/wendersonab/contador-de-tempo/blob/main/somar-minutos.py)
 
 [![Download Executável](https://img.shields.io/badge/💾_Baixar%20Executável%20(.rar)-2EA043?style=for-the-badge)](https://drive.google.com/file/d/1t5zlqHfosfNTJzYvEiU8v1oedEF_DJLf/view?usp=drive_link)
 
